@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RoutinePractice/1.0.0": {
+        "runtime": {
+          "RoutinePractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoutinePractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
