@@ -1,0 +1,15 @@
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.csproj.AssemblyReference.cache
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.AssemblyInfoInputs.cache
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.AssemblyInfo.cs
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.csproj.CoreCompileInputs.cache
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/RoutinePractice.deps.json
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/RoutinePractice.runtimeconfig.json
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/RoutinePractice.runtimeconfig.dev.json
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/RoutinePractice.dll
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/ref/RoutinePractice.dll
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/bin/Debug/net5.0/RoutinePractice.pdb
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.dll
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/ref/RoutinePractice.dll
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.pdb
+/Users/kwanggiheo/Desktop/Unity Folder/RoutinePractice/RoutinePractice/obj/Debug/net5.0/RoutinePractice.genruntimeconfig.cache
