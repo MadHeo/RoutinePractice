@@ -208,26 +208,54 @@ namespace PracticeNote
     //}
 
     //매개 변수 코드
-    class Calculator
-    {
-        public static int Plus (int a, int b)
-        {
-            Console.WriteLine("Input : {0}, {1}", a, b);
+    
+//    class MainApp
+//    {
+//        public static void Swap(int a, int b)
+//        {
+//            int temp = b;
+//            b = a;
+//            a = 4;
 
-            int result = a + b;
-            return result;
-        }
-    }
+//        }
 
+//        static void Main(string[] args)
+//        {
+//            int x = 3;
+//            int y = 4;
+
+//            Console.WriteLine($"x:{x}, y:{y}");
+
+//            Swap(x, y);
+
+//            Console.WriteLine($"x:{x}, y:{y}");
+//        }
+//    }
+
+//}
+
+//ref 매게변수 참조
     class MainApp
     {
-        public static void Main()
+        static void Swap(ref int a, ref int b)
+        {
+            int temp = b;
+            b = a;
+            a = 4;
+                
+        }   
+
+        static void Main(string[] args)
         {
             int x = 3;
             int y = 4;
 
-            int result = Calculator.Plus(x, y);
+            Console.WriteLine($"x:{x}, y:{y}");
+
+            Swap(ref x, ref y);
+
+            Console.WriteLine($"x:{x}, y:{y}");
         }
-    }
+    }   
 
 }
